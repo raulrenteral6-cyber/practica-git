@@ -7,3 +7,4 @@
 "Tomate y cebolla"
 "Chile"
 "Cebollin"
+"Frijoles"
